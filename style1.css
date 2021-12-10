@@ -1,0 +1,53 @@
+
+body{
+    background: #00bf8f;  
+    background: -webkit-linear-gradient(to right, #001510, #00bf8f);  
+    background: linear-gradient(to right, #001510, #00bf8f); 
+}
+#headr {
+    font-family: 'Patrick Hand', cursive;
+    font-size: 49px;
+    color: #EDF5E1;
+}
+#headeer{
+    font-family: 'Patrick Hand', cursive;
+    font-size: 49px;
+    color: #EDF5E1;
+    margin-left: 100px;
+}
+.signin{
+    padding-top: 18%;
+    margin-left: 40%;
+}   
+form input{
+        display: block;
+        margin-left: 40px; 
+        width: 230px;
+        margin-top: 15px;
+        margin-bottom: 10px;  
+        border-radius: 10px;
+        padding: 4px;
+}
+a{
+    margin-left: 50px;
+}
+a:link, a:visited {
+    background-color: #05386B;
+    color: #EDF5E1;
+    padding: 14px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 40px;
+}
+a:hover, a:active {
+    background-color: black;
+    color: white;
+}
+#submit{
+    width: 130px;
+    margin-left: 90px;
+}
+#up{
+    margin-left: 65px;
+}
