@@ -8,4 +8,4 @@ Hello Everyone, This repo contains source code to a COMMUNITY MANAGEMENT WEBSITE
 6. Important contacts- Users can find local emergency numbers, numbers of service providers which can be handy at times.
 7. Know your community- All the details of the housing board commitee members are mentioned along with their postion and contact information.
 
-It is a website with easy Register/Login and logout facility.The screenshots of the website are available in this google drive folder- https://drive.google.com/drive/folders/1-KRBi0iSKmhzAbYYRAsc4WcI7kkkNVCe?usp=sharing. The database screenshots are also made available.
+It is a website with easy Register/Login and logout facility.It is hosted live on http://communitymang.42web.io
